@@ -6,7 +6,7 @@
 #include <iomanip>  // Pentru std::fixed, std::setprecision (la afisare preturi)
 
 // Includem header-ul principal al hotelului
-#include "Hotel2.h"
+#include "Hotel.h"
 // Includem si TipCamera pentru a putea crea obiecte de acest tip direct in main
 #include "TipCamera.h"
 // Celelalte clase (Camera, Client, Angajat, Rezervare, Persoana) sunt incluse
